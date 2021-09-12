@@ -1,0 +1,10 @@
+C:\Users\manum\Documents\Joby\WinFormSample\WinFormSample\bin\Debug\WinFormSample.exe.config
+C:\Users\manum\Documents\Joby\WinFormSample\WinFormSample\bin\Debug\WinFormSample.exe
+C:\Users\manum\Documents\Joby\WinFormSample\WinFormSample\bin\Debug\WinFormSample.pdb
+C:\Users\manum\Documents\Joby\WinFormSample\WinFormSample\obj\Debug\WinFormSample.Properties.Resources.resources
+C:\Users\manum\Documents\Joby\WinFormSample\WinFormSample\obj\Debug\WinFormSample.csproj.GenerateResource.cache
+C:\Users\manum\Documents\Joby\WinFormSample\WinFormSample\obj\Debug\WinFormSample.csproj.CoreCompileInputs.cache
+C:\Users\manum\Documents\Joby\WinFormSample\WinFormSample\obj\Debug\WinFormSample.exe
+C:\Users\manum\Documents\Joby\WinFormSample\WinFormSample\obj\Debug\WinFormSample.pdb
+C:\Users\manum\Documents\Joby\WinFormSample\WinFormSample\obj\Debug\WinFormSample.Form1.resources
+C:\Users\manum\Documents\Joby\WinFormSample\WinFormSample\obj\Debug\WinFormSample.csproj.AssemblyReference.cache

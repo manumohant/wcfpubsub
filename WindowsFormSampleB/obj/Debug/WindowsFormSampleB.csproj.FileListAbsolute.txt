@@ -1,0 +1,9 @@
+C:\Users\manum\Documents\Joby\WinFormSample\WindowsFormSampleB\bin\Debug\WindowsFormSampleB.exe.config
+C:\Users\manum\Documents\Joby\WinFormSample\WindowsFormSampleB\bin\Debug\WindowsFormSampleB.exe
+C:\Users\manum\Documents\Joby\WinFormSample\WindowsFormSampleB\bin\Debug\WindowsFormSampleB.pdb
+C:\Users\manum\Documents\Joby\WinFormSample\WindowsFormSampleB\obj\Debug\WindowsFormSampleB.Properties.Resources.resources
+C:\Users\manum\Documents\Joby\WinFormSample\WindowsFormSampleB\obj\Debug\WindowsFormSampleB.csproj.GenerateResource.cache
+C:\Users\manum\Documents\Joby\WinFormSample\WindowsFormSampleB\obj\Debug\WindowsFormSampleB.csproj.CoreCompileInputs.cache
+C:\Users\manum\Documents\Joby\WinFormSample\WindowsFormSampleB\obj\Debug\WindowsFormSampleB.exe
+C:\Users\manum\Documents\Joby\WinFormSample\WindowsFormSampleB\obj\Debug\WindowsFormSampleB.pdb
+C:\Users\manum\Documents\Joby\WinFormSample\WindowsFormSampleB\obj\Debug\WindowsFormSampleB.Form1.resources
